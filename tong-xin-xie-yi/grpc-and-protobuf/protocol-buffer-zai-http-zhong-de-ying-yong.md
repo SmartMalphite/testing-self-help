@@ -1,4 +1,4 @@
-# Protocol Buffer在HTTP中的应用
+# Protobuf在HTTP中的应用
 
 ## 客户端代码
 
@@ -89,5 +89,5 @@ if __name__ == "__main__":
 
 ## 客户端运行结果如下
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 

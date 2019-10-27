@@ -1,4 +1,4 @@
-# Protocol Buffer在gRPC中的应用
+# Protobuf在gRPC中的应用
 
 ## 相关库的安装
 
