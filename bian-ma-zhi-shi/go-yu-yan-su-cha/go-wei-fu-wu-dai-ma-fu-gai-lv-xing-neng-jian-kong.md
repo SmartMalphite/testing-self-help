@@ -78,7 +78,7 @@ Showing top 5 nodes out of 12
 (pprof) web
 ```
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ### Go微服务代码覆盖率收集
 
