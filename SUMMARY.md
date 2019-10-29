@@ -14,6 +14,10 @@
   * [基础语法](bian-ma-zhi-shi/go-yu-yan-su-cha/untitled.md)
   * [Go微服务代码覆盖率&性能监控](bian-ma-zhi-shi/go-yu-yan-su-cha/go-wei-fu-wu-dai-ma-fu-gai-lv-xing-neng-jian-kong.md)
 
+## 常用算法
+
+* [乐观锁](chang-yong-suan-fa/le-guan-suo.md)
+
 ## 通信协议
 
 * [gRPC&Protobuf](tong-xin-xie-yi/grpc-and-protobuf/README.md)
@@ -40,6 +44,8 @@
 
 * [Kubernetes](gong-ju-shi-yong/kubernetes/README.md)
   * [入门指南](gong-ju-shi-yong/kubernetes/ru-men-zhi-nan.md)
+  * [Mac OS下安装Docker&k8s](gong-ju-shi-yong/kubernetes/untitled.md)
 * [Jenkins](gong-ju-shi-yong/jenkins/README.md)
   * [入门指南](gong-ju-shi-yong/jenkins/ru-men-zhi-nan.md)
+  * [k8s中搭建jenkins服务](gong-ju-shi-yong/jenkins/k8s-zhong-da-jian-jenkins-fu-wu.md)
 

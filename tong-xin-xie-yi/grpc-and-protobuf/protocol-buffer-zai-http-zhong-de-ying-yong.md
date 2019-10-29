@@ -89,5 +89,5 @@ if __name__ == "__main__":
 
 ## 客户端运行结果如下
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 

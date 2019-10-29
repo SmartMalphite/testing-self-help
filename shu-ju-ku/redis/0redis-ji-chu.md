@@ -26,11 +26,11 @@ OK
 (integer) 1
 ```
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 参考链接 [https://www.cnblogs.com/jianzhixuan/p/6427640.html](https://www.cnblogs.com/jianzhixuan/p/6427640.html)
 
