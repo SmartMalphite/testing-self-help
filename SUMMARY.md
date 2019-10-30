@@ -56,6 +56,7 @@
 * [Jenkins](gong-ju-shi-yong/jenkins/README.md)
   * [入门指南](gong-ju-shi-yong/jenkins/ru-men-zhi-nan.md)
   * [k8s中搭建jenkins服务](gong-ju-shi-yong/jenkins/k8s-zhong-da-jian-jenkins-fu-wu.md)
-* [Kibana](gong-ju-shi-yong/kibana.md)
+* [Kibana](gong-ju-shi-yong/kibana/README.md)
+  * [入门指南](gong-ju-shi-yong/kibana/ru-men-zhi-nan.md)
 * [Git](gong-ju-shi-yong/git.md)
 
