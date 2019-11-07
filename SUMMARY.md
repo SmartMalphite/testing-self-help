@@ -15,8 +15,10 @@
     * [QTAF](bian-ma-zhi-shi/python-su-cha/chang-yong-gong-ju/qtaf.md)
     * [WebPy](bian-ma-zhi-shi/python-su-cha/chang-yong-gong-ju/web.py-wu-mo-ban.md)
 * [Go语言速查](bian-ma-zhi-shi/go-yu-yan-su-cha/README.md)
-  * [基础语法](bian-ma-zhi-shi/go-yu-yan-su-cha/untitled.md)
-    * [0-Hello World]()
+  * [基础语法](bian-ma-zhi-shi/go-yu-yan-su-cha/untitled/README.md)
+    * [0.Hello World](bian-ma-zhi-shi/go-yu-yan-su-cha/untitled/0-hello-world.md)
+    * [1.Go变量定义](bian-ma-zhi-shi/go-yu-yan-su-cha/untitled/1.go-bian-liang-ding-yi.md)
+    * [2.常量](bian-ma-zhi-shi/go-yu-yan-su-cha/untitled/2.-chang-liang.md)
   * [Go微服务代码覆盖率&性能监控](bian-ma-zhi-shi/go-yu-yan-su-cha/go-wei-fu-wu-dai-ma-fu-gai-lv-xing-neng-jian-kong.md)
 * [Javascript速查](bian-ma-zhi-shi/javascript-su-cha.md)
 
