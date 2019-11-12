@@ -9,6 +9,7 @@
   * [常用类库](bian-ma-zhi-shi/python-su-cha/chang-yong-lei-ku/README.md)
     * [http.client](bian-ma-zhi-shi/python-su-cha/chang-yong-lei-ku/http.client.md)
     * [zlib](bian-ma-zhi-shi/python-su-cha/chang-yong-lei-ku/zlib.md)
+    * [random](bian-ma-zhi-shi/python-su-cha/chang-yong-lei-ku/random.md)
   * [常用工具&框架](bian-ma-zhi-shi/python-su-cha/chang-yong-gong-ju/README.md)
     * [Python virtualenv 使用](bian-ma-zhi-shi/python-su-cha/chang-yong-gong-ju/python-virtualenv-shi-yong.md)
     * [Locust进行性能测试](bian-ma-zhi-shi/python-su-cha/chang-yong-gong-ju/locust-jin-hang-xing-neng-ce-shi.md)
