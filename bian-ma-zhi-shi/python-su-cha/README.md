@@ -1,2 +1,2 @@
-# Python速查
+# Python语言学习笔记
 

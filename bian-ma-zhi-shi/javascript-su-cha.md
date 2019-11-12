@@ -1,2 +1,2 @@
-# Javascript速查
+# Javascript学习笔记
 
