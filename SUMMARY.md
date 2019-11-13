@@ -8,7 +8,7 @@
   * [基础语法](bian-ma-zhi-shi/python-su-cha/untitled.md)
   * [常用类库](bian-ma-zhi-shi/python-su-cha/chang-yong-lei-ku/README.md)
     * [http.client](bian-ma-zhi-shi/python-su-cha/chang-yong-lei-ku/http.client.md)
-    * [zlib](bian-ma-zhi-shi/python-su-cha/chang-yong-lei-ku/zlib.md)
+    * [zlib&hashlib](bian-ma-zhi-shi/python-su-cha/chang-yong-lei-ku/zlib.md)
     * [random](bian-ma-zhi-shi/python-su-cha/chang-yong-lei-ku/random.md)
   * [常用工具&框架](bian-ma-zhi-shi/python-su-cha/chang-yong-gong-ju/README.md)
     * [Python virtualenv 使用](bian-ma-zhi-shi/python-su-cha/chang-yong-gong-ju/python-virtualenv-shi-yong.md)
@@ -23,6 +23,7 @@
   * [Go微服务代码覆盖率&性能监控](bian-ma-zhi-shi/go-yu-yan-su-cha/go-wei-fu-wu-dai-ma-fu-gai-lv-xing-neng-jian-kong.md)
 * [Linux/Shell学习笔记](bian-ma-zhi-shi/linuxshell-xue-xi-bi-ji.md)
 * [Javascript学习笔记](bian-ma-zhi-shi/javascript-su-cha.md)
+* [正则表达式](bian-ma-zhi-shi/zheng-ze-biao-da-shi.md)
 
 ## 常用算法
 
@@ -41,8 +42,8 @@
 
 ## 数据库
 
-* [Mysql DB操作指南](shu-ju-ku/mysql.md)
-* [Redis DB操作指南](shu-ju-ku/redis/README.md)
+* [Mysql 操作指南](shu-ju-ku/mysql.md)
+* [Redis 操作指南](shu-ju-ku/redis/README.md)
   * [0-Redis基础](shu-ju-ku/redis/0redis-ji-chu.md)
   * [1-Redis数据结构—字符串](shu-ju-ku/redis/1redis-shu-ju-jie-gou-zi-fu-chuan.md)
   * [2-Redis数据结构-列表](shu-ju-ku/redis/2redis-shu-ju-jie-gou-lie-biao.md)

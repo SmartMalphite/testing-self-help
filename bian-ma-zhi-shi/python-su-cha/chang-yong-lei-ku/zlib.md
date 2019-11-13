@@ -1,4 +1,6 @@
-# zlib
+# zlib&hashlib
+
+## zlib
 
 ### python3
 
@@ -21,5 +23,14 @@
 c_uint(3421780262L)
 ```
 
+## hashlib（python3）
 
+```text
+import hashlib
+    
+def sign(*args):
+    s = "^".join([str(_str) for _str in args])
+    return hashlib.md5(s.encode(encoding='utf-8')).hexdigest().upper()
+    
+```
 
