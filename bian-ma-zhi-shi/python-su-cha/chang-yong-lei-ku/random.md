@@ -1,3 +1,7 @@
+---
+description: 随机模块
+---
+
 # random
 
 ```text
