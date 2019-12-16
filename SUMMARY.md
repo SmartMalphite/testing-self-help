@@ -11,6 +11,7 @@
     * [zlib&hashlib](bian-ma-zhi-shi/python-su-cha/chang-yong-lei-ku/zlib.md)
     * [random](bian-ma-zhi-shi/python-su-cha/chang-yong-lei-ku/random.md)
     * [logging](bian-ma-zhi-shi/python-su-cha/chang-yong-lei-ku/logging.md)
+    * [sqlalchemy](bian-ma-zhi-shi/python-su-cha/chang-yong-lei-ku/sqlalchemy.md)
   * [常用工具&框架](bian-ma-zhi-shi/python-su-cha/chang-yong-gong-ju/README.md)
     * [Python virtualenv 使用](bian-ma-zhi-shi/python-su-cha/chang-yong-gong-ju/python-virtualenv-shi-yong.md)
     * [Locust进行性能测试](bian-ma-zhi-shi/python-su-cha/chang-yong-gong-ju/locust-jin-hang-xing-neng-ce-shi.md)
